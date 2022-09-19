@@ -3,7 +3,7 @@ Repositori untuk pengumpulan Tugas Praktikum Asistensi 14 Pengantar Pemrograman 
 
 ## Aturan Pengumpulan
 **Note:**  
-_Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruksi yang ada dalam tanda < > tersebut. Contohnya `mkdir <NIM>` menjadi `mkdir H071191002`_
+_Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruksi yang ada dalam tanda < > tersebut. Contohnya `mkdir <NIM>` menjadi `mkdir H071191016`_
 - Silahkan fork repositori ini
 - Lakukan clone terhadap hasil fork repository ini ke komputer kalian
   ```
@@ -11,7 +11,7 @@ _Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruk
   ```
 - Pindah ke repositori hasil clone dengan perintah berikut
   ```
-  cd Asistensi-10-Lab-PP-2022
+  cd ASISTENSI-14-LAB-PP-2022
   ```
 - Masuk ke folder NIM kalian
   
