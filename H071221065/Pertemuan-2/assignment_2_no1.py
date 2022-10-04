@@ -2,7 +2,7 @@
 
 Nilai_= int(input("Masukkan Nilai: "))
 if Nilai_>=90: 
-    print("NIlai %s = 'A'" % (Nilai_))
+    print("Nilai %s = 'A'" % (Nilai_))
 elif 80< Nilai_ <=90:
     print("Nilai %s = 'B'" % (Nilai_))
 elif 70< Nilai_ <=80:
