@@ -1,12 +1,8 @@
-from platform import java_ver
-
-
 derajat = float(input('derajat: '))
 hari = 3600 * 24  
 detik = round((derajat/360)*hari)
 jam = 6
 menit = 0
-
 
 while(detik >= 3600 ):
     detik -= 3600 
@@ -29,4 +25,4 @@ elif jam > 18 and jam <= 24:
 else :
     print("selamat malam")
 
-print(f"{jam:02d}:{menit:03d}:{detik:02d}")
+print(f"{jam:02d}:{menit:02d}:{detik:02d}")
