@@ -13,5 +13,3 @@ try :
         print('false')
 except :
     print('false')
-
-# 2222222222aaaaaaaaaa2222222222aaaaaaaaaa13 57
