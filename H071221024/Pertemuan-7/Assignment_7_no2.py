@@ -7,7 +7,7 @@ for i in range(loop) :
     listIP.append(adressIP)
 for j in range(len(listIP)):
     if '.' in listIP[j] :
-        match1=re.search('^(([0-1?]([0-9]?){2}|[0-2?]([0-5]?){2}).){3}([0-1?]([0-9]?){2}|[0-2?]([0-5]?){2})$',listIP[j])
+        match1=re.search('^(([0-1?]([0-9]?){2}|[0-2?]([0-5]?){2}|[0-2?][0-4?][0-9?]).){3}([0-1?]([0-9]?){2}|[0-2?]([0-5]?){2}|[0-2?][0-4?][0-9?])$',listIP[j])
         if match1 :
             print('IPv4')
         else :
