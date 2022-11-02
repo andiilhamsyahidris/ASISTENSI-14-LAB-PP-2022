@@ -3,6 +3,7 @@
 
 import re
 s = input('')
+print(len(s))
 
 # MENYETEL REGULAR EXPRESSION
 regex_space = r'\s'
