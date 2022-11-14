@@ -1,6 +1,5 @@
 class person :
     def __init__(self, nama, umur, laki_laki) :
-        #print("="*10,)
         self.nama = nama 
         self.umur = umur
         self.laki_laki = laki_laki
@@ -25,8 +24,7 @@ class person :
                 print("Gender : Perempuan")
         else :
             print("inputan tidak falid")
-    #def Kesehatan (self) :
-        #pass
+    
 
 
 
